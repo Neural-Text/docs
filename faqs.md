@@ -4,7 +4,7 @@
 
 ### Content Briefs
 
-Dutch, English, French, German, Italian, Portuguese and Spanish.
+Dutch, English, French, German, Italian, Portuguese, Spanish and Swedish.
 
 ### Smart Copy Tools (115 languages)
 
