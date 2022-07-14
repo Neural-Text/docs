@@ -1,57 +1,223 @@
-# FAQs
+---
+description: A list of frequently asked questions.
+---
 
-## Which languages does NeuralText support?
+# ❓ FAQs
 
-### Content Briefs
+<details>
 
-Dutch, English, French, German, Italian, Portuguese, Spanish and Swedish.
+<summary>Can I create an entire blog post with NeuralText?</summary>
 
-### Smart Copy Tools (115 languages)
+Yes, when you are within the document editor:
 
-Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan, Cebuano, Chinese (China), Chinese (Taiwan), Chinese, Corsican, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Finnish, French, Frisian, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Kinyarwanda, Korean, Korean, Kurdish, Kyrgyz, Lao, Latin, Latvian, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Myanmar (Burmese), Nepali, Norwegian Bokmål, Norwegian Nynorsk, Nyanja (Chichewa), Odia (Oriya), Pashto, Persian, Polish, Portuguese (Brazilian), Portuguese, Punjabi, Romanian, Russian, Samoan, Scots Gaelic, Serbian Cyrillic, Serbian Latin, Sesotho, Shona, Sindhi, Sinhala (Sinhalese), Slovak, Slovenian, Somali, Spanish (Latin American), Spanish, Sundanese, Swahili, Swedish, Tagalog (Filipino), Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu.
+1. &#x20;Use the _blog outline_ tool to generate an outline for the article
+2. Once you have the outline, you can use the _bullet to paragraph_ tool for each header: just pick each item of the outline and let the AI generate some possibile paragraphs for that headline (from which you can choose one or more in combination, whatever you prefer).
 
-### Keyword Research/Clustering supported Countries
+</details>
 
-Argentina, Australia, Austria, Bangladesh, Belgium, Brazil, Canada, Chile, Colombia, Costa Rica, Ecuador, France, Germany, Guatemala, India, Indonesia, Ireland, Italy, Mexico, Netherlands, New Zealand, Nicaragua, Nigeria, Pakistan, Paraguay, Peru, Philippines, Portugal, Singapore, South Africa, Spain, Switzerland, United Arab Emirates, United Kingdom, United States, Uruguay, Venezuela.
+<details>
 
-## Can I write full articles?
+<summary>Which languages does NeuralText support?</summary>
 
-* Within the long-form smart copy tool, or within the content grader, use the _blog outline_ tool to generate the outline (h2, h3...)
-* Once you have the outline, you can use the _bullet to paragraph_ tool: just pick each header of the outline and let the AI generate 7 possibile paragraphs for that headline (from which you can choose one or more in combination, whatever you prefer)
-* If you want to expand a paragraph, you can choose the content expander: in this case you have to alternate writing with the AI. So you write a little, then expand with AI, then again write a little bit more...
+<mark style="background-color:yellow;">**SERP Analysis**</mark>
 
-## Which insights are shown in a content brief?
+```
+English
+German
+French
+Czech
+Danish
+Dutch
+Finnish
+Italian
+Norwegian
+Polish
+Portuguese
+Spanish
+Swedish
+Turkish
+```
 
-NeuralText content briefs are automatically generated from just one keyword. They are shareable reports that provide you with:
+<mark style="background-color:yellow;">**AI Templates**</mark>
 
-* Keyword seasonality/trend
-* People Also Asked
-* Relevant Topics
-* Questions on the topic, coming from Quora and Google Suggest
-* Insights from Competitors
-* Common sources within the SERP
+```
+Afrikaans
+Albanian
+Amharic
+Arabic
+Armenian
+Azeri
+Basque
+Belarusian
+Bengali
+Bosnian
+Bulgarian
+Catalan
+Cebuano
+Chinese (China)
+Chinese (Traditional)
+Croatian
+Czech
+Danish
+Dutch
+English
+Estonian
+Finnish
+French
+Frisian
+Galician
+Georgian
+German
+Greek
+Gujarati
+Haitian Creole
+Hausa
+Hebrew
+Hindi
+Hungarian
+Icelandic
+Igbo
+Indonesian
+Irish
+Italian
+Japanese
+Kannada
+Kazakh
+Khmer
+Kinyarwanda
+Korean
+Kyrgyz
+Lao
+Latvian
+Lithuanian
+Macedonian
+Malay
+Malayam
+Maltese
+Maori
+Marathi
+Mongolian
+Myanmar (Burmese)
+Nepali
+Norwegian
+Pashto
+Polish
+Portuguese (Brazilian)
+Portuguese
+Punjabi
+Romanian
+Russian
+Scots Gaelic
+Serbian Cyrillic
+Serbian Latin
+Sesotho
+Shona
+Sindhi
+Sinhala (Sinhalese)
+Slovak
+Slovenian
+Somali
+Spanish (Latin American)
+Spanish
+Swahili
+Swedish
+Tajik
+Tamil
+Thai
+Turkish
+Turkmen
+Ukrainian
+Urdu
+Uzbek
+Vietnamese
+Xhosa
+Yoruba
+Zulu
+```
 
-## Where do you get your data for Keyword Research?
+<mark style="background-color:yellow;">**Keyword Research/Keyword Cluster**</mark>
 
-Currently, we are using Google Ads and clickstream data from third-party providers.
+All combinations of 92 languages for 213 countries.
 
-## Do you require a credit card to try NeuralText?
+</details>
 
-You can try NeuralText for free! Just signup for a free account [here](https://app.neuraltext.com/accounts/signup/?plan=0).
+<details>
 
-## Which payment methods do you support?
+<summary>Where do you get your data for Keyword Research?</summary>
 
-Currently we only support Credit/Debit cards.
+Currently, we use Google Autocomplete to get the related keywords and Google Ads/ clickstream data from third-party providers for search volume.
 
-## I bought a LifeTime Deal, will I get future updates?
+</details>
+
+<details>
+
+<summary>Do you have a free plan?</summary>
+
+Yes! You can try NeuralText without credit card. Just signup for a free account.
+
+</details>
+
+<details>
+
+<summary>Do you have an annual plan?</summary>
+
+Yes! We offer monthly and yearly billing options. With the annual plan, you can save up to 15%.
+
+**Send us a mail** if you want to be billed annually.
+
+</details>
+
+<details>
+
+<summary>Which payment methods do you support?</summary>
+
+We use Stripe as payment gateway. Currently we only support Credit/Debit cards.
+
+</details>
+
+<details>
+
+<summary>I bought a Life Time Deal, will I get future updates?</summary>
 
 LTD buyers will always benefit from new features and updates.
 
+</details>
 
+<details>
 
+<summary>How can I suggest a feature?</summary>
 
+We have a [public roadmap](https://roadmap.neuraltext.com/roadmap) where you can suggest a feature.
 
+</details>
 
+<details>
+
+<summary>How can I talk to someone at NeuralText?</summary>
+
+**Submit a Support Ticket**
+
+If you are experiencing problems or have found any bug/error, please submit a ticket. We generally answer within 24/48 hours.
+
+To submit a ticket, send an email to **support@neuraltext.com**
+
+**Send Us an Email**
+
+For any question, you can reach out to us at: **humans@neuraltext.com**
+
+**Facebook Group**
+
+Join our [FB community](https://www.facebook.com/groups/109695764425979) to stay updated, share ideas and learn new tips from other users!
+
+</details>
+
+<details>
+
+<summary>How can I delete my account?</summary>
+
+We are sorry to see you to go! If you want to delete your account, send an email to **support@neuraltext.com**
+
+</details>
 
 
 
